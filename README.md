@@ -4,4 +4,4 @@ I'm a full-stack developer passionate about building innovative and user-friendl
 
 - 🌱 I’m currently learning Generative AI
 - 💬 Ask me about web development, full-stack projects, and responsive design!
-- 📫 How to reach me: joed72427@gmail.com
+- 📫 How to reach me: abdull4588766@gmail.com
