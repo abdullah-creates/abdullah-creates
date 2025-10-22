@@ -31,22 +31,11 @@
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=abdullah-creates&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdullah-creates&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-creates&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abdullah-creates&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abdullah-creates&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-creates&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=abdullah-creates&icon=10&color=0)](https://visitcount.itsvg.in)
 
----
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abdullah-creates/abdullah-creates/output/snake.svg" />
-  <br/><br/><br/>
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
